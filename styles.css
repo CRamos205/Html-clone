@@ -54,3 +54,7 @@ h5 {
     font-size: 68px;
     font-family: fantasy;
 }
+
+#copyright {
+    color: rgb(245, 65, 0);
+}
